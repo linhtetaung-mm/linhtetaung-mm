@@ -7,7 +7,7 @@
 
 My name is Lin Htet Aung. I live in Mandalay city. A third year ECE student at MIIT(Myanmar Institute of Information Technology).
 
-Academic years are still waiting for me but for a certain reason I can't go to school yet. So I am doing what I enjoy most and that is coding.
+Academic years are still waiting for me but for a certain reason I can't go back to school yet. So I am doing what I enjoy most and that is coding.
 
 I like puzzles and good at playing too...especially about games on numbers and patterns.
 
