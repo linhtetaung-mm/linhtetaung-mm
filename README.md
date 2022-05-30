@@ -9,9 +9,9 @@ My name is Lin Htet Aung. I live in Mandalay city. A third year ECE student at M
 
 Academic years are still waiting for me but for a certain reason I can't go back to school yet. So I am doing what I enjoy most and that is coding.
 
-I like puzzles and good at playing too...especially about games on numbers and patterns.
+I like puzzles and good at playing too...especially about games with numbers and patterns.
 
-Some games I wrote myself are - Crack Code Puzzle(game website and solving algorithm), Fill One-line puzzle(solving algorithm).
+Some games I wrote myself are - Crack Code Puzzle(game webpage and solving algorithm), Fill One-line puzzle(solving algorithm).
 
 <!---
 linhtetaung-mm/linhtetaung-mm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
