@@ -1,17 +1,18 @@
 - 👋 Hi, I’m @linhtetaung-mm
-- 👀 I’m interested in web developement
-- 🌱 I’m currently learning javascript
-- 📫 My email address - linhtetaung.miit@gmail.com
+- 👀 I’m interested in web developement (not really)
+- 🌱 I’m currently learning javascript (not really)
 
 "A Little About Me"
 
-My name is Lin Htet Aung. I live in Mandalay city. A third year ECE student at MIIT(Myanmar Institute of Information Technology).
+Hi, I'm Lin Htet Aung. Living in Mandalay City. Doing unnecessary things, nothing happening...😑
 
 Academic years are still waiting for me but for a certain reason I can't go back to school yet. So I am doing what I enjoy most and that is coding.
 
-I like puzzles and good at playing too...especially about games with numbers and patterns.
+I like puzzles and good at playing them too...especially with games in numbers and patterns.
 
-Some games I wrote myself are - Crack Code Puzzle(game webpage and solving algorithm), Fill One-line puzzle(solving algorithm).
+Some game-solving algorithms I wrote myself are - Crack Code Puzzle(game webpage and solving algorithm), Fill One-line puzzle(solving algorithm) and Slider Numbers puzzle(solving Algorithm).
+
+All these three puzzles can be found on https://play.google.com/store/apps/details?id=com.psp.brainmindgames&gl=US
 
 <!---
 linhtetaung-mm/linhtetaung-mm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
