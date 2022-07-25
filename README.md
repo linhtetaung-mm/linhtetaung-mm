@@ -4,7 +4,7 @@
 
 "A Little About Me"
 
-Hi, I'm Lin Htet Aung. Living in Mandalay City. Doing unnecessary things, nothing happening...😑
+Hi, I'm Lin Htet Aung. Living in Mandalay City. Doing unnecessary things and nothing happening...😑
 
 Academic years are still waiting for me but for a certain reason I can't go back to school yet. So I am doing what I enjoy most and that is coding.
 
