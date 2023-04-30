@@ -10,7 +10,7 @@ Academic years are still waiting for me but for a certain reason I can't go back
 
 I like puzzles and good at playing them too...especially with games in numbers and patterns.
 
-Some game-solving algorithms I wrote myself are - Crack Code Puzzle(game webpage and solving algorithm), Fill One-line puzzle(solving algorithm), Slider Numbers puzzle(solving Algorithm), Magic Number Puzzle(Rotate Number Puzzle), Math Pieces Puzzle, Find Paths Puzzle.
+Some game-solving algorithms I wrote myself are - Crack Code Puzzle(game webpage and solving algorithm), Fill One-line puzzle(solving algorithm), Slider Numbers puzzle(solving Algorithm), Magic Number Puzzle(Rotate Number Puzzle), Math Pieces Puzzle, Find Paths Puzzle and GreensNReds Puzzle(Not from the game).
 
 All these puzzles can be found on https://play.google.com/store/apps/details?id=com.psp.brainmindgames&gl=US
 
