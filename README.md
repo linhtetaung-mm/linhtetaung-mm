@@ -1,20 +1,43 @@
-- 👋 Hi, I’m @linhtetaung-mm
-- 👀 I’m interested in web developement (not really)
-- 🌱 I’m currently learning javascript (not really)
+# 👋 Hi, I'm Lin Htet Aung (@linhtetaung-mm)
 
-"A Little About Me"
+## 🔹 A Little About Me  
+Hi, I'm Lin Htet Aung, currently living in Mandalay City. I spend my time doing unnecessary things, and, well... nothing much happens. 😑  
 
-Hi, I'm Lin Htet Aung. Living in Mandalay City. Doing unnecessary things and nothing happening...😑
+Academic years are still waiting for me, but for certain reasons, I haven't gone back to school yet. In the meantime, I'm doing what I enjoy most—**coding**.  
 
-Academic years are still waiting for me but for a certain reason I can't go back to school yet. So I am doing what I enjoy most and that is coding.
+I love puzzles, and I'm pretty good at solving them too—especially those involving numbers and patterns.  
 
-I like puzzles and good at playing them too...especially with games in numbers and patterns.
+---
 
-Some game-solving algorithms I wrote myself are - Crack Code Puzzle(game webpage and solving algorithm), Fill One-line puzzle(solving algorithm), Slider Numbers puzzle(solving Algorithm), Magic Number Puzzle(Rotate Number Puzzle), Math Pieces Puzzle, Find Paths Puzzle and GreensNReds Puzzle(Not from the game).
+## 🧩 My Puzzle Projects  
+I've created and implemented solving algorithms for several logic-based games, including:  
+✔ **Crack Code Puzzle** (Game webpage + Solving algorithm)  
+✔ **Fill One-line Puzzle** (Solving algorithm)  
+✔ **Slider Numbers Puzzle** (Solving algorithm)  
+✔ **Magic Number Puzzle** (Rotate number puzzle)  
+✔ **Math Pieces Puzzle**  
+✔ **Find Paths Puzzle**  
+✔ **GreensNReds Puzzle** (Not from the game)  
 
-All these puzzles can be found on https://play.google.com/store/apps/details?id=com.psp.brainmindgames&gl=US
+📌 All these puzzles can be found on [Google Play](https://play.google.com/store/apps/details?id=com.psp.brainmindgames&gl=US).  
 
-<!---
-linhtetaung-mm/linhtetaung-mm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🛠 Tech Stack  
+I occasionally explore various technologies, but I mainly work with:  
+- **Programming Languages:** JavaScript, Java, Kotlin  
+- **Web Development:** React, Spring Boot, JSP, Servlets  
+- **Databases:** MongoDB, MySQL  
+- **Mobile Development:** Android (Kotlin)  
+
+---
+
+## 📫 Connect With Me  
+💬 Feel free to reach out! I'm always open to discussions, collaborations, or just casual chats.  
+
+📌 **GitHub:** [@linhtetaung-mm](https://github.com/linhtetaung-mm)  
+📌 **Google Play Puzzles:** [Brain Mind Games](https://play.google.com/store/apps/details?id=com.psp.brainmindgames&gl=US)  
+
+---
+
+🚀 **"Solving puzzles is not just fun; it's a way of life!"**  
