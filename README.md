@@ -1,11 +1,9 @@
 # 👋 Hi, I'm Lin Htet Aung (@linhtetaung-mm)
 
 ## 🔹 A Little About Me  
-Hi, I'm Lin Htet Aung, currently living in Mandalay City. I spend my time doing unnecessary things, and, well... nothing much happens. 😑  
+Hi, I'm Lin Htet Aung.
 
-Academic years are still waiting for me, but for certain reasons, I haven't gone back to school yet. In the meantime, I'm doing what I enjoy most—**coding**.  
-
-I love puzzles, and I'm pretty good at solving them too—especially those involving numbers and patterns.  
+I love puzzles, and I'm pretty good at solving them too, especially those involving numbers and patterns.  
 
 ---
 
@@ -20,15 +18,6 @@ I've created and implemented solving algorithms for several logic-based games, i
 ✔ **GreensNReds Puzzle** (Not from the game)  
 
 📌 All these puzzles can be found on [Google Play](https://play.google.com/store/apps/details?id=com.psp.brainmindgames&gl=US).  
-
----
-
-## 🛠 Tech Stack  
-I occasionally explore various technologies, but I mainly work with:  
-- **Programming Languages:** JavaScript, Java, Kotlin  
-- **Web Development:** React, Spring Boot, JSP, Servlets  
-- **Databases:** MongoDB, MySQL  
-- **Mobile Development:** Android (Kotlin)  
 
 ---
 
