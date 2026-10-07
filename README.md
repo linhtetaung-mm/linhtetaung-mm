@@ -24,6 +24,7 @@ I've created and implemented solving algorithms for several logic-based games, i
 ## 📫 Connect With Me  
 💬 Feel free to reach out! I'm always open to discussions, collaborations, or just casual chats.  
 
+📌 **Email:** linhtetaungxai@gmail.com
 📌 **GitHub:** [@linhtetaung-mm](https://github.com/linhtetaung-mm)  
 📌 **Google Play Puzzles:** [Brain Mind Games](https://play.google.com/store/apps/details?id=com.psp.brainmindgames&gl=US)  
 
